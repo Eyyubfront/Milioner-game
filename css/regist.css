@@ -1,0 +1,21 @@
+.miloner-box{
+    border: 1px solid;
+    text-align: center;
+    width: 296px;
+    padding: 10px;
+    height: 400px;
+    margin: auto;
+}
+
+.milionphoto{
+    width: 300px;
+}
+.stratrt{
+ 
+    font-size: 24px;
+    border: none;
+    border-radius: 10%;
+    padding: 10px 15px;
+    background: rebeccapurple;
+    color: white;
+}
